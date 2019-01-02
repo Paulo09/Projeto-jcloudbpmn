@@ -1,0 +1,1 @@
+grails generate-all diagramaprocesso

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pessoas>
+	<pessoa:p id="1">
+		<nome>Jurandir</nome>
+		<idade>55</idade>
+		<peso>90</peso>
+	</pessoa:p>
+	<pessoa id="2">
+		<nome>Mawluis</nome>
+		<idade>30</idade>
+		<peso>70</peso>
+	</pessoa>
+</pessoas>

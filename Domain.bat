@@ -1,0 +1,1 @@
+grails create-domain-class diagramaprocesso
